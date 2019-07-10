@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,东方卫视
+http://118.123.60.8:8114/LIVES/Fsv_otype=1?FvSeid=5cbfa40873c73b82&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=1&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=index.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1,湖南卫视
+http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1,CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1,CCTV4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1,CCTV5
+http://192.240.120.102:8081/live/rec_c20007.m3u8
+#EXTINF:-1,深圳卫视
+http://www.szmgiptv.com:14436/hls/7.m3u8
+#EXTINF:-1,北京卫视
+http://61.179.109.170/live/5/30/d005a79e2c474848a7b316f6f87cecee.m3u8?type=web.cloudplay
